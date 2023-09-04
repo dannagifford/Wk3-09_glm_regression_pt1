@@ -1,2 +1,1 @@
-# 09_glm_regression_pt1
- 
+# Workshop on GLM Regression Part 1
