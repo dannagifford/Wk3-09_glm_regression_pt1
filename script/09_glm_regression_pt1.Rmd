@@ -1,6 +1,8 @@
 ---
 title: "The General Linear Model - Regression Part 1"
-author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+author:
+    - Dr Danna Gifford, Unit coordinator (2023), danna.gifford@manchester.ac.uk
+    - Prof Andrew Stewart, Original author (2020-2022), drandrewjstewart@gmail.com
 date: ""
 output: 
  html_document:
@@ -12,7 +14,7 @@ self_contained: false
 
 # Overview
 
-First off I'd like you to watch the following videos which start off by revising the basics of correlation, before examining how we build regressions models. 
+Please watch the following videos which start off by revising the basics of correlation, before examining how we build regressions models. 
 
 &nbsp;&nbsp;
 
@@ -49,7 +51,7 @@ You can view the slides by clicking on the image below.
 &nbsp;&nbsp;
 
 # Simple Linear Regression
-After having watched the videos above, I'd like you to work through the following simple linear regression example in R. Remember to create a new `.Rproj` file to keep things organised.
+After having watched the videos above, please work through the following simple linear regression example in R. Remember to create a new `.Rproj` file to keep things organised.
 
 &nbsp;&nbsp;
 
@@ -150,7 +152,7 @@ First we apply our filter.
 crime_filtered <- filter(crime_filtered, Year == 2015)
 ```
 
-Then we build a plot. I'm using the layer `geom_text()` to plot the City names and set the check_overlap parameter to `TRUE` to ensure the labels don't overlap.
+Then we build a plot. The layer `geom_text()` is used to plot the City names and set the check_overlap parameter to `TRUE` to ensure the labels don't overlap.
 
 ```{r, warning=FALSE, message=FALSE}
 crime_filtered %>%
