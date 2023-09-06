@@ -44,7 +44,7 @@ You can view the slides by clicking on the image below.
 
 <center>
 
-[![Link to GLM Regression part 1 slides](../images/glm_pt1.png){width=75%}](https://docs.google.com/presentation/d/15xUNxg2yGOWWKHH16fYPUF9SEdCV7LU4zTeWQcnLxV8/edit?usp=sharing)
+[![Link to GLM Regression part 1 slides](../images/glm_pt1.png){width=75%}](../slides/glm_pt1.odp)
 
 </center>
 
