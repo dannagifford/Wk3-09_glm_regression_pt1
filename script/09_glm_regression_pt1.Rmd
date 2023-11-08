@@ -38,13 +38,10 @@ Please watch the following videos which start off by revising the basics of corr
 
 ## Slides
 
-You can view the slides by clicking on the image below. 
-
-&nbsp;&nbsp;
-
+You can download the slides in .odp format by clicking [here](../slides/glm_pt1.odp) and in .pdf format by clicking on the image below. 
 <center>
 
-[![Link to GLM Regression part 1 slides](../images/glm_pt1.png){width=75%}](../slides/glm_pt1.odp)
+[![Link to GLM Regression part 1 slides](../images/glm_pt1.png){width=75%}](../slides/glm_pt1.pdf)
 
 </center>
 
